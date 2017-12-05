@@ -1,21 +1,10 @@
-# model-app
+# tea-app
 
 > A Vue.js project
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+## 主要内容
+````bash
+  这个项目主要用到了前端框架Vue和elementUI，通过跳去tea-admin服务器中的接口，将数据库中的数据展示都页面上，可以实现数据的动态更新
+````
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
